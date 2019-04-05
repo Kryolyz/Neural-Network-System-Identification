@@ -6,7 +6,7 @@ The as-is version of the file identifies a DC-Motor state-space and prints out t
 Also i'm kind of a messy coder so the file barely contains any comments (and the existing ones are german), however if you have some experience with python and tensorflow everything should be quite obvious.
 
 # Requirements
-The Python packages requiered are tensorflow, numpy, matplotlib and networkx. To install using pip or conda, use exactly those names.
+The Python packages required are tensorflow, numpy, matplotlib and networkx. To install using pip or conda, use exactly those names.
 Example : pip install tensorflow
 OR      conda install tensorflow
 
